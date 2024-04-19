@@ -1,1 +1,1 @@
-# personal-project
+# Project - Fingerprint-recognition-door-lock
